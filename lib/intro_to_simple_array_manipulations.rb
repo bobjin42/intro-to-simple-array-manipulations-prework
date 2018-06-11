@@ -46,5 +46,7 @@ def using_uniq(array)
 end
 
 def using_flatten(array)
-  new_array = array.flatten
+  new_array = array.flatten.join("")
+  return new_array
+end
   
