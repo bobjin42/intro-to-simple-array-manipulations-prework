@@ -41,5 +41,7 @@ def using_insert(array, ele)
 end
 
 def using_uniq(array)
-  
+  new_array = array.uniq;
+  return new_array
+end
   
