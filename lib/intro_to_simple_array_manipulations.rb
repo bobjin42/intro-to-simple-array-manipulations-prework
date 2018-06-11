@@ -45,5 +45,6 @@ def using_uniq(array)
   return new_array
 end
 
-def
+def using_flatten(array)
+  new_array = 
   
